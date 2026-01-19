@@ -1,0 +1,1 @@
+They put in power people that wouldn't turn against them, people that would enforce their dogma and quell any uprising

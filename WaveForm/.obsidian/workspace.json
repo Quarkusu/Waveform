@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "765511f958d1642e",
+    "type": "split",
+    "children": [
+      {
+        "id": "15918058452e186d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1411951d9e02c7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b93babe55f8ab596",
+    "type": "split",
+    "children": [
+      {
+        "id": "427728264d72036c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ab3ffaccdd9232",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "dd8c930916112a3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "4d26e5fab85c9334",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          },
+          {
+            "id": "6acc14ca6043543c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.51103591918945
+  },
+  "right": {
+    "id": "63f4c3ee78f8c3c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "223f255d19f61593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a856438c03f7730c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "0bad21f24d68447e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Worlds/Sinstrella.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Sinstrella"
+            }
+          },
+          {
+            "id": "34892c888b9a79c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "32f2bbbb570038ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worlds/Sinstrella.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Sinstrella"
+            }
+          },
+          {
+            "id": "b334896e4a18e0ac",
+            "type": "leaf",
+            "state": {
+              "type": "moredraw-iframe-view",
+              "state": {},
+              "icon": "moredraw-icon",
+              "title": "MoreDraw"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "moredraw:MoreDraw": false
+    }
+  },
+  "active": "df1411951d9e02c7",
+  "lastOpenFiles": [
+    "Abilities/Modules/Saw Module/M3.md",
+    "Abilities/Modules/Saw Module/M2.md",
+    "Abilities/Modules/Saw Module/M4.md",
+    "Abilities/Modules/Square Modules/M4.md",
+    "Abilities/Modules/Square Modules/M3.md",
+    "Abilities/Modules/Sin Modules/M4.md",
+    "Abilities/Modules/Sin Modules/M3.md",
+    "Abilities/Modules/Triangle Module/M4.md",
+    "Game/Enemies/Common/Drones.md",
+    "Game/Enemies/Common/Soldiers.md",
+    "Game/Enemies/Common/Grunts.md",
+    "Game/Enemies/Common/Common.md",
+    "Game/Enemies/Common",
+    "Game/Enemies/Square/Small fries/Untitled.md",
+    "Game/Enemies/Square/Elites/Elites.md",
+    "Game/Enemies/Square/Elites",
+    "Game/Enemies/Square/Bosses/Bosses.md",
+    "Game/Enemies/Square/Bosses",
+    "Game/Enemies/Square/Small fries/Small fries.md",
+    "Game/Enemies/Square/Small fries",
+    "Game/Enemies/Square/Square.md",
+    "Game/Enemies/Square",
+    "Game/Enemies/Enemies.md",
+    "Game/Enemies",
+    "Story/Characters/Machina.md",
+    "Story/Characters/Kubo.md",
+    "Story/Characters/Wally.md",
+    "Story/Plot/Act 1 - Squadrom.md",
+    "Story/Characters/Characters.md",
+    "Story/Characters",
+    "Story/Plot/Prologue.md",
+    "Story/Plot/Plot.md",
+    "Story/Plot",
+    "Story/Sans titre 3.md",
+    "Story/Prologue",
+    "Game/Mechanics",
+    "Game/LD/World Map.canvas",
+    "Game/Diagrams/Terminal Flowchart.canvas",
+    "Abilities/Modules/Module 0/Untitled.canvas"
+  ]
+}

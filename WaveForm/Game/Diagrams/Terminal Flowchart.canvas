@@ -1,0 +1,125 @@
+{
+  "edges": [
+    {
+      "fromNode": "9a244971b99597c1",
+      "fromSide": "right",
+      "id": "f27ea8a028972e65",
+      "toNode": "96ab40df75a0cabc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "96ab40df75a0cabc",
+      "fromSide": "right",
+      "id": "c1827dbd5b59e2ef",
+      "toNode": "85b0465125d97ae7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85b0465125d97ae7",
+      "fromSide": "right",
+      "id": "ed271bd4212e1350",
+      "toNode": "8bad288c8ca4f18b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9a244971b99597c1",
+      "fromSide": "right",
+      "id": "67c68936a10105d8",
+      "toNode": "fc9fd4d5003f4706",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "96ab40df75a0cabc",
+      "fromSide": "right",
+      "id": "46b8428e2eda26a7",
+      "toNode": "a65a3f591121c1f3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "85b0465125d97ae7",
+      "fromSide": "right",
+      "id": "b7b04b7c8fb6e02c",
+      "toNode": "759997c3c4dd0bcc",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "9a244971b99597c1",
+      "styleAttributes": {
+      },
+      "text": "Terminal",
+      "type": "text",
+      "width": 250,
+      "x": -680,
+      "y": 20
+    },
+    {
+      "height": 50,
+      "id": "96ab40df75a0cabc",
+      "styleAttributes": {
+      },
+      "text": "Slot Selection",
+      "type": "text",
+      "width": 250,
+      "x": -260,
+      "y": 25
+    },
+    {
+      "height": 50,
+      "id": "85b0465125d97ae7",
+      "styleAttributes": {
+      },
+      "text": "Type Selection",
+      "type": "text",
+      "width": 250,
+      "x": 180,
+      "y": 25
+    },
+    {
+      "height": 50,
+      "id": "8bad288c8ca4f18b",
+      "styleAttributes": {
+      },
+      "text": "Module Selection",
+      "type": "text",
+      "width": 250,
+      "x": 620,
+      "y": 25
+    },
+    {
+      "height": 60,
+      "id": "fc9fd4d5003f4706",
+      "styleAttributes": {
+      },
+      "text": "Bottom Screen Displays obtained Cores",
+      "type": "text",
+      "width": 250,
+      "x": -260,
+      "y": 260
+    },
+    {
+      "height": 60,
+      "id": "a65a3f591121c1f3",
+      "styleAttributes": {
+      },
+      "text": "Bottom Screen Displays obtained Cores",
+      "type": "text",
+      "width": 250,
+      "x": 180,
+      "y": 260
+    },
+    {
+      "height": 100,
+      "id": "759997c3c4dd0bcc",
+      "styleAttributes": {
+      },
+      "text": "Bottom Screen Displays information on hovered Module",
+      "type": "text",
+      "width": 250,
+      "x": 620,
+      "y": 260
+    }
+  ]
+}

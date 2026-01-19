@@ -1,0 +1,81 @@
+{
+  "edges": [
+    {
+      "fromNode": "511c6579cdd51f3d",
+      "fromSide": "right",
+      "id": "abc9cd545f956511",
+      "styleAttributes": {
+      },
+      "toNode": "b874fd410ccc61dc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b874fd410ccc61dc",
+      "fromSide": "right",
+      "id": "4b0be269469b8ca5",
+      "styleAttributes": {
+      },
+      "toNode": "2ba344b7ee5705e4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "2ba344b7ee5705e4",
+      "fromSide": "top",
+      "id": "53501a0a38c330b4",
+      "styleAttributes": {
+      },
+      "toNode": "8102b4ac61fe6bd8",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "511c6579cdd51f3d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Squadrom",
+      "type": "text",
+      "width": 160,
+      "x": -280,
+      "y": -70
+    },
+    {
+      "height": 60,
+      "id": "b874fd410ccc61dc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sinstrella",
+      "type": "text",
+      "width": 160,
+      "x": 60,
+      "y": 60
+    },
+    {
+      "height": 60,
+      "id": "2ba344b7ee5705e4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Trihara",
+      "type": "text",
+      "width": 160,
+      "x": 400,
+      "y": -70
+    },
+    {
+      "height": 60,
+      "id": "8102b4ac61fe6bd8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Saw",
+      "type": "text",
+      "width": 160,
+      "x": 640,
+      "y": -460
+    }
+  ]
+}
