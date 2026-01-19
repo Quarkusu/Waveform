@@ -160,8 +160,8 @@
             "state": {
               "type": "moredraw-iframe-view",
               "state": {},
-              "icon": "moredraw-icon",
-              "title": "MoreDraw"
+              "icon": "lucide-ghost",
+              "title": "moredraw-iframe-view"
             }
           }
         ],
