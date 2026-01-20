@@ -56,9 +56,8 @@
     "//Story/Story/Characters",
     "//Abilities/Abilities/Cores",
     "//Game/Game/Enemies/Game/Enemies/Common",
-    "//Game",
-    "//Abilities",
-    "//Abilities/Abilities/Modules"
+    "//Abilities/Abilities/Modules",
+    "//Worlds"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
